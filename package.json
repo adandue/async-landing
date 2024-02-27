@@ -1,0 +1,12 @@
+{
+  "name": "async-landing",
+  "version": "1.0.0",
+  "description": "This is the repository of the final project of the course asynchronism with javascript of Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Adan Duenas <ing.adanduenas@gmail.com>",
+  "license": "MIT"
+}
